@@ -1,18 +1,15 @@
-# Pet Collar Code Project
+# Pet Collar Code Project - Overview
 
-Swagger / SpringBoot / Derby
+This is the sample project created to showcase the apprach of developing API.
 
 
 Pre-requisites: The following should have been installed in your local machine and PATH and CLASSPATH should have been set appropriately.
-- Jav\swagger-spring-1.0.0.jar
-
-Step5:
-Open browswer and type http://localhost:8080/rajapiconnect1/TestAPI/1.0.0
-
-This will open the application
+- Java
 - Maven
 - git 
-## Overview  
+- Also ensure that port 8080 is available in local machine
+
+## Steps for execution  
 
 Steps to execute the project
 
